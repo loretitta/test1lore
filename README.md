@@ -1,4 +1,7 @@
-test1lore
+Tarea N°1 -Ingenieria Software
 =========
 
-Prueba de aprendisaje de lore en Github
+Integrantes : 
+-Loreta Astudillo Ollig
+-Mario Ibarra Tapia
+-Abraham Muñoz Saez
